@@ -220,7 +220,7 @@ Then, try with different values for `n`:
 # 
 # .play _code/mc-pi.go
 
-*
+* 
 
 Let's add some graphics:
 
