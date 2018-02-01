@@ -138,9 +138,9 @@ _NB:_ importing our `"ints"` package is done like so:
 
  import "uca.fr/ints"
 
-# * Solution
-# 
-# .play _code/use-ints-pkg.go
+* Solution
+
+.play _code/use-ints-pkg.go
 
 * 
 
@@ -160,15 +160,15 @@ How close are you to the `math.Sqrt`?
 
 .code _code/newton-start.go
 
-# * Solution
-# 
-# .play _code/newton-s1.go
-# .image _figs/newton.png
+* Solution
 
-# * Solution
-# 
-# .play _code/newton-s2.go /START/,/END/
-# .image _figs/newton.png
+.play _code/newton-s1.go
+.image _figs/newton.png
+
+* Solution
+
+.play _code/newton-s2.go /START/,/END/
+.image _figs/newton.png
 
 * Interlude: Monte Carlo simulations
 
@@ -216,9 +216,9 @@ Then, try with different values for `n`:
  $> go run ./main.go -n 1000
  $> ...
 
-# * Solution
-# 
-# .play _code/mc-pi.go
+* Solution
+
+.play _code/mc-pi.go
 
 * 
 
